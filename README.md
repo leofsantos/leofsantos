@@ -22,8 +22,7 @@
 
 ##
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/leofsantos">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leofsantos&layout=compact&langs_count=7&theme=omni"/>
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=leofsantos&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=leofsantos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
