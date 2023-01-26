@@ -1,5 +1,5 @@
 <p align="left"> 
-  Oi, eu sou Leo! <br> Sou <strong>Desenvolvedor Full Stack</strong> em formação pela <strong>Generation Brasil</strong>.
+  Hi there, my name is Leo! <br><strong>I am a Civil Engineer and a Developer</strong>.
 </p>
 
 <p align="left">
