@@ -3,7 +3,7 @@
 </p>
 
 <p align="left">
-  💌 Pode falar comigo por aqui: ⤵️
+  💌 Feel free to reach out for me: ⤵️
 </p>
 
 <p align="left">
