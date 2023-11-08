@@ -1,9 +1,9 @@
 <p align="left"> 
-  Hi there, my name is Leo! <br><strong>I am a Civil Engineer and a Developer</strong>.
+  Hi there, my name is Leo! <br><strong>I am a Civil Engineer and Web Developer</strong>.
 </p>
 
 <p align="left">
-  💌 Feel free to reach out for me: ⤵️
+  Feel free to reach out for me: ⤵️
 </p>
 
 <p align="left">
@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/-Linkedin-1c1424?style=for-the-badge&logo=Linkedin&logoColor=3CBFB2&link=https://www.linkedin.com/in/leonardo-fs/"/>
   </a>
   
-  <a href="mailto:leonardo.filipe.snts@gmail.com" alt="Email">
+  <a href="mailto:leonardofs.dev@gmail.com" alt="Email">
     <img src="https://img.shields.io/badge/-Gmail-1c1424?style=for-the-badge&logo=gmail&logoColor=3CBFB2"/>
   </a>
 </p>
